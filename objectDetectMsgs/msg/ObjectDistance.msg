@@ -1,0 +1,2 @@
+string class_name
+uint32 distance
